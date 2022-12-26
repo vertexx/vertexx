@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am an information Technology Specialist with Microsoft and Azure certifications with 15+ years of progressively complex experience designing, managing, and supporting a variety of network and operating system environments, technologies, and equipment, for large and small-scale. Interested in Clouds, Automation, and DevOps Engineering.
 
 <!--
 **vertexx/vertexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
